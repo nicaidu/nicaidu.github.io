@@ -21,6 +21,9 @@
     <ClInclude Include="tcp_manager.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="sessionmanager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="tcp_manager.cpp">
